@@ -23,29 +23,23 @@
 - Some others are coming...
 
 - **Humanoids/Legged Robots**
-  - Datasets:
-    - [InternData-H1](https://huggingface.co/datasets/InternRobotics/InternData-H1): The largest open-sourced 3D human motion dataset with text annotation, including 2.5k hours 1.9M episodes.
-  - Models and Research:
-    - [UniHSI](https://github.com/InternRobotics/UniHSI): Unified Human-Scene Interaction via Prompted Chain-of-Contacts
-    - [HIMLoco](https://github.com/InternRobotics/HIMLoco): Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
-    - 🏆[HoST](https://github.com/InternRobotics/HoST) **[Best Systems Paper Finalist at RSS 2025]**: Learning Humanoid Standing-up Control across Diverse Postures
-    - [HOMIE](https://github.com/InternRobotics/Homie): Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit
+  - [InternData-H1](https://huggingface.co/datasets/InternRobotics/InternData-H1): The largest open-sourced 3D human motion dataset with text annotation, including 2.5k hours 1.9M episodes.
+  - [UniHSI](https://github.com/InternRobotics/UniHSI): Unified Human-Scene Interaction via Prompted Chain-of-Contacts
+  - [HIMLoco](https://github.com/InternRobotics/HIMLoco): Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
+  - 🏆[HoST](https://github.com/InternRobotics/HoST) **[Best Systems Paper Finalist at RSS 2025]**: Learning Humanoid Standing-up Control across Diverse Postures
+  - [HOMIE](https://github.com/InternRobotics/Homie): Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit
 
 - **Manipulation**
-  - Datasets:
-    - [InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1): A hybrid synthetic-real manipulation dataset integrating 5 heterogeneous robots, 15 skills, and 200+ scenes, emphasizing multi-robot collaboration under dynamic scenarios.
-    - [InternData-M1](https://huggingface.co/datasets/InternRobotics/InternData-M1): A large-scale synthetic dataset for generalizable pick-and-place over 80K objects, with open-ended instructions covering object recognition, spatial and commonsense reasoning, and long-horizon tasks.
-  - Models and Research:
-    - [Seer](https://github.com/InternRobotics/Seer): Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation
-    - [RoboSplat](https://github.com/InternRobotics/RoboSplat): Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation
-    - [GenManip](https://github.com/InternRobotics/GenManip): LLM-driven Simulation for Generalizable Instruction-Following Manipulation
+  - [InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1): A hybrid synthetic-real manipulation dataset integrating 5 heterogeneous robots, 15 skills, and 200+ scenes, emphasizing multi-robot collaboration under dynamic scenarios.
+  - [InternData-M1](https://huggingface.co/datasets/InternRobotics/InternData-M1): A large-scale synthetic dataset for generalizable pick-and-place over 80K objects, with open-ended instructions covering object recognition, spatial and commonsense reasoning, and long-horizon tasks.
+  - [Seer](https://github.com/InternRobotics/Seer): Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation
+  - [RoboSplat](https://github.com/InternRobotics/RoboSplat): Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation
+  - [GenManip](https://github.com/InternRobotics/GenManip): LLM-driven Simulation for Generalizable Instruction-Following Manipulation
 
 - **Navigation**
-  - Datasets:
-    - [InternData-N1](https://huggingface.co/datasets/InternRobotics/InternData-N1): A high-quality navigation dataset with the most diverse scenes and extensive randomization across embodiments/viewpoints, including 3k+ scenes and 830k VLN data.
-  - Models and Research:
-    - [NavDP](https://github.com/InternRobotics/NavDP): Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance
-    - [StreamVLN](https://github.com/InternRobotics/StreamVLN): Streaming Vision-and-Language Navigation via SlowFast Context Modeling
+  - [InternData-N1](https://huggingface.co/datasets/InternRobotics/InternData-N1): A high-quality navigation dataset with the most diverse scenes and extensive randomization across embodiments/viewpoints, including 3k+ scenes and 830k VLN data.
+  - [NavDP](https://github.com/InternRobotics/NavDP): Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance
+  - [StreamVLN](https://github.com/InternRobotics/StreamVLN): Streaming Vision-and-Language Navigation via SlowFast Context Modeling
 
 - **AIGC for Embodied AI**
   - [Infinite-Mobility](https://github.com/InternRobotics/Infinite-Mobility): Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation
